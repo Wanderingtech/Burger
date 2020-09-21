@@ -1,19 +1,21 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+body{
+  background-color: bisque;
 }
 
-.label {
+h1{
+color: #ad1457;
+text-align: center;
+}
+
+.card {
+  width: 50%;
+}
+.card-content{
+  float: auto;
+  text-align: center;
+  justify-content: center;
   font-weight: bold;
-}
-
-.create-update-form {
   padding: 5px;
   margin: 5px;
-  background: aqua;
-}
-
-.form-group {
   margin-bottom: 5px;
 }
